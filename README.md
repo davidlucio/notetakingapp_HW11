@@ -34,7 +34,7 @@
 
 <a name="installation"></a>
 ## **Installation**  
-Run: 'npm install' and then 'npm install nodemom.' When ready to start the application, run 'nodemon server.js' and go to https://localhost:3001 in your browser.  
+Run: 'npm install' and then 'npm install nodemom.' When ready to start the application, run 'nodemon server.js' and go to http://localhost:3001 in your browser.  
 
 
 &nbsp;
